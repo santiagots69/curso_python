@@ -1,2 +1,4 @@
 my_first_var = "Hello World!"
 print (my_first_var)
+my_first_var = "hello world!"
+print (my_first_var)
